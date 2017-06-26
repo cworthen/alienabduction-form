@@ -1,4 +1,4 @@
-## adminpanel:
+## adminpanel
  
 Completed: May 2016
  
